@@ -1,0 +1,23 @@
+{
+  "name": "tarea_sistemas_distribuidos",
+  "version": "1.0.0",
+  "description": "Repositorio vacío para la tarea de sistemas distribuidos.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QuisVenator/tarea_sistemas_distribuidos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QuisVenator/tarea_sistemas_distribuidos/issues"
+  },
+  "homepage": "https://github.com/QuisVenator/tarea_sistemas_distribuidos#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
