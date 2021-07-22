@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/QuisVenator/tarea_sistemas_distribuidos#readme",
   "dependencies": {
+    "ejs": "^3.1.6",
     "express": "^4.17.1"
   }
 }
