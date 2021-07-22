@@ -4,13 +4,13 @@ Repositorio vacío para la tarea de sistemas distribuidos.
 # Server con Express
 Para acceder al server con express se requiere las siguientes librerias node:
 
-```bash
+```shell
 npm install express ejs
 ```
 
 Para ejecutar el server :
 
-```bash
+```shell
 node index.js
 ```
 
